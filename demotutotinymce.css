@@ -1,0 +1,21 @@
+/**
+  * Demo Tuto TinyMCE pour Prestashop 1.5 & 1.6 - demotutotinymce.css
+  * 
+  * Auteur: Hadrien Boyer
+  * Website: http://hadri.info
+  * Date: 28/01/2015
+  * Version: 0.1
+  */
+
+#demo-tinymce{
+	padding:30px;
+	border: 1px solid #CCC;
+	margin-top: 10px;
+}
+
+#demo-tinymce h1{
+	color:#333;
+	margin-bottom: 30px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #EEE;
+}

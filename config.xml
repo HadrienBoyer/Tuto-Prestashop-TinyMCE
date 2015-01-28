@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>demotutotinymce</name>
+            <displayName><![CDATA[Demo Tuto TinyMCE]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Demo du Tuto pour ajouter des champs TinyMCE dans un module Prestashop.]]></description>
+            <author><![CDATA[Hadrien Boyer]]></author>
+            <tab><![CDATA[front_office_features]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
